@@ -12,6 +12,8 @@
 
 [![Build Status](https://github.com/ChrisAchinga/Bootstrap-Starter/workflows/CI/badge.svg)](https://github.com/ChrisAchinga/Bootstrap-Starter/actions)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f48cb63c-4fcc-47cf-983b-45771cb8b25a/deploy-status)](https://app.netlify.com/sites/webstarternode/deploys)
+
 ## Using This Template Directly
 
 To start using this template, click the `Use This Template` green button at the top right. Or Use this link:
