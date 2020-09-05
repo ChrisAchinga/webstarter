@@ -46,7 +46,7 @@ npm run css-compile
 npm run watch
 
 # Start local server (uses serve)
-npm run server
+npm start
 ```
 
 For the most straightforward development, open two Terminal tabs to execute `npm run server` and `npm run watch` at the same time.
