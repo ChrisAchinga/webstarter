@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My web starter template from bootstrap starter",
   "repository": {
     "type": "git",
@@ -9,7 +9,6 @@
   "bugs": {
     "url": "https://github.com/ChrisAchinga/Bootstrap-Starter/issues"
   },
-  "homepage": "https://github.com/ChrisAchinga/Bootstrap-Starter#readme",
   "scripts": {
     "build": "npm run css",
     "css-compile": "node-sass --include-path node_modules --output-style compressed --source-map true --source-map-contents true --precision 6 scss -o assets/css/",
